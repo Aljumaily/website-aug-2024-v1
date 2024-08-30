@@ -1,0 +1,26 @@
+{
+  "toolbar": {
+    "home": "Home",
+    "research": "Research",
+    "teaching": "Teaching",
+    "resume": "Resume/CV",
+    "contact": "Contact",
+    "theme": "Theme",
+    "theme-options": {
+      "light-theme": "Light Theme",
+      "dark-theme": "Dark Theme"
+    }
+  },
+  "footer": {
+    "footer-text": "Copyright &copy; {{year}} Maysara Al Jumaily. All rights reserved."
+  },
+  "resume": {
+    "education": "Education",
+    "teaching-experience": "Teaching Experience",
+    "research": "Research"
+  },
+  "HOME": {
+    "TITLE": "Hello Angular with ngx-translate!",
+    "SELECT": "Change language"
+  }
+}

@@ -1,0 +1,15 @@
+{
+
+  "toolbar":{
+    "home":"Hogar",
+    "research": "Investigación",
+    "teaching": "Enseñando",
+    "resume": "Reanudar",
+    "contact": "Contactot",
+    "theme": "Tema",
+    "theme-options": {
+      "light-theme": "Tema Ligero",
+      "dark-theme": "Tema Oscuro"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+
+  "toolbar":{
+    "home":"Home",
+    "research": "Research",
+    "teaching": "Teaching",
+    "resume": "Resume/CV",
+    "contact": "Contact"
+  }
+}

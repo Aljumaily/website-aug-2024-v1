@@ -1,0 +1,19 @@
+{
+
+  "toolbar":{
+    "home":"الرئيسية",
+    "research": "بحث",
+    "teaching": "تعليم",
+    "resume": "سيرة ذاتية",
+    "contact": "اتصال",
+    "theme": "موضوع",
+    "theme-options": {
+      "light-theme": "موضوع الضوء",
+      "dark-theme": "موضوع الظلام"
+    }
+  },
+  "footer":{
+    "footer-text": "جميع الحقوق محفوظة &copy; {{year}} Maysara Al Jumaily"
+  }
+}
+
